@@ -101,6 +101,6 @@ namespace Semaforo
             pictureBox1.Image = Semaforo.Properties.Resources.semaforo1;  //Y nos regresamos a la imagen donde ninguna luz del semaforo esten encencidas.
             pictureBox2.Image = Semaforo.Properties.Resources.semaforo1;  // ?
         }//FIN DEL CODIGO.
-    }                  // 6B Mecatronica, Equipo: Los Aprencides de Fibonacci, a 26/04/2017.
+    }                  
 
-}                     //Gracias por tomarse el tiempo de leerlo profesor, que tenga buen dia!
+}                     
